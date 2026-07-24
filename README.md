@@ -8,7 +8,7 @@ It's designed to help shop owners keep track of what's in stock without needing 
 
 Papa's Invo is in **alpha**. Right now, you can:
 
-- Add new inventory items
+- Add item to inventory
 - View your current inventory
 
 ## 🗺️ Roadmap
