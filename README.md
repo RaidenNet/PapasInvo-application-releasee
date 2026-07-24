@@ -4,7 +4,7 @@ Papa's Invo is a simple inventory management application built for small and med
 
 It's designed to help shop owners keep track of what's in stock without needing expensive or complicated software.
 
-## 🚧 Current Status
+## 📊 Current Status
 
 Papa's Invo is in **alpha**. Right now, you can:
 
